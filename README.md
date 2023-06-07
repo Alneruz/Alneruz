@@ -1,5 +1,7 @@
-### Hi there 👋
+# ¡Hola! Soy Erving Urbina
 
+Soy un apasionado estudiante de ingeniería que siempre estoy buscando aprender y expandir conocimientos en el mundo de la tecnología. Estoy entusiasmado con la aplicación de principios científicos y matemáticos para resolver problemas complejos y crear soluciones innovadoras. Mi objetivo es convertirme en un ingeniero altamente capacitado y contribuir al avance de la sociedad a través de la tecnología.
+ 
 <!--
 **Alneruz/Alneruz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
